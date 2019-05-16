@@ -24,7 +24,7 @@ class Author
   def self.post_count
     total = 0
     @@all.each do |posts|
-      total += posts.songs.length
+      total += posts.posts.length
     end
     return total
   
