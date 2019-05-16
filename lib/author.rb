@@ -27,6 +27,7 @@ class Author
       total += posts.posts.length
     end
     return total
+  end
   
   
   
