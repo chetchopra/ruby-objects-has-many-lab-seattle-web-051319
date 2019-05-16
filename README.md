@@ -1,4 +1,4 @@
-laer# Ruby Objects Has Many Lab
+# Ruby Objects Has Many Lab
 
 ## Objectives
 
